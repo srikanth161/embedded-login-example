@@ -8,7 +8,7 @@
    
     <title>Embedded login with Salesforce</title>
 
-    <!— Some other meta tags —>
+    
     <meta name="salesforce-community" content="https://upworkcommunity-developer-edition.ap5.force.com/Customers">
     <meta name="salesforce-client-id" content="3MVG9d8..z.hDcPKkUS17WGka1YSSYI5z.xuM3TDSpRUFYpXpGJE7yr7lXYiZ88KqaS1ocru1JAKL72h9l7rG">
     <meta name="salesforce-redirect-uri" content="https://embedded202.herokuapp.com/_callback.php">
